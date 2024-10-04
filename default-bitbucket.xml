@@ -9,5 +9,6 @@
   </project>
 
   <project remote="alb-bitbucket" revision="10155672e041439f9bc28c22b17fc3307b8ce204" name="meta-alb-dev" path="sources/meta-alb-dev"/>
+  <project remote="alb-bitbucket" revision="1f113c85846317663ad162ae4930f1d5cbb82475" name="meta-alb-url-proxy" path="sources/meta-alb-url-proxy"/>
 
   </manifest>
