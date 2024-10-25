@@ -8,7 +8,7 @@
     <copyfile dest="nxp-setup-alb.sh"    src="nxp-setup-alb.sh"/>
   </project>
 
-  <project remote="alb-bitbucket" revision="66380213af729a3240a9acd73a640accce8676e4" name="meta-alb-dev" path="sources/meta-alb-dev"/>
+  <project remote="alb-bitbucket" revision="50a509d8282a4aa2d48e2f5b46a6e2dd11e06b20" name="meta-alb-dev" path="sources/meta-alb-dev"/>
   <project remote="alb-bitbucket" revision="1f113c85846317663ad162ae4930f1d5cbb82475" name="meta-alb-url-proxy" path="sources/meta-alb-url-proxy"/>
 
   </manifest>
